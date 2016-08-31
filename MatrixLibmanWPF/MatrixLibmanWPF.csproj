@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BAA27F63-B073-486F-B986-2DB9E59ED339}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MatrixLibmanWPF</RootNamespace>
+    <AssemblyName>MatrixLibmanWPF</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="WindowWarning.xaml.cs">
+      <DependentUpon>WindowWarning.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="WindowWarning.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Авторизация1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Авторизация2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\в степень.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Войти.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\вычитание.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\новый фон.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\обратные.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\определитель.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\ортогональные.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\ранг матрицы.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Регистрация.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\сложение.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\транспонирование.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\умножение матриц.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\умножение на число.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\часть1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\часть2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\No.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Yes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Тестирование.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\закончить тест.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\на главную страницу.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\следующий тест.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Expander1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\testFon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\возведения_матриц_в_степень.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Обратные_матрицы.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Определитель_матрицы.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Ортогональные матрицы.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Основные_виды_матриц%28Часть1%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Основные_виды_матриц%28Часть2%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Ранг_матрицы.Элементарные_преобразования.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Сложение_матриц.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Транспонирование_матриц.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Умножение_матриц.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Умножение_матрицы_на_число.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\36.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

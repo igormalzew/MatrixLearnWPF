@@ -1,0 +1,94 @@
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csprojResolveAssemblyReference.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csprojResolveAssemblyReference.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.2\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 1.3\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csprojResolveAssemblyReference.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\MatrixLibmanWPF 2.0\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe.config
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.exe
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\bin\Debug\MatrixLibmanWPF.pdb
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csprojResolveAssemblyReference.cache
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\WindowWarning.baml
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MainWindow.g.cs
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\WindowWarning.g.cs
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\App.g.cs
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.cache
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF_MarkupCompile.lref
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MainWindow.baml
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.g.resources
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.Properties.Resources.resources
+F:\Учеба\7 семестр\4 курс\Тайфун\MatrixLibmanWPF 2.1\MatrixLibmanWPF\obj\Debug\MatrixLibmanWPF.csproj.GenerateResource.Cache
